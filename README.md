@@ -14,5 +14,5 @@ Basic implementation in `LogisticRegression.ipynb`
 ![image](https://user-images.githubusercontent.com/65892626/183523734-30ccf7c9-6ee6-4e57-b0aa-cc9087488bf6.png)
 Not the best, but at least existing solution to Titanic Kaggle problem. Solution based on Logistic Regression with Ridge and Lasso. Coefficients were set to 1, so the result may be improved with changing the coeffient to more proper values. Also it's possible, that change of `threshold` may affect perfomance of algorithm
 
-Implementation in `Kaggle\Titanic\main.ipynb`, solution in `result.csv`
+Implementation in `kaggle\titanic\main.ipynb`, solution in `result.csv`
 
