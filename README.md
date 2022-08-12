@@ -12,7 +12,7 @@ Basic implementation in `LogisticRegression.ipynb`
 ## 2. Real datasets approach:
 ### 1. Titanic
 ![image](https://user-images.githubusercontent.com/65892626/183523734-30ccf7c9-6ee6-4e57-b0aa-cc9087488bf6.png)
-Not the best, but at least existing solution to Titanic Kaggle problem. Solution based on Logistic Regression with Ridge and Lasso. Coefficients were find through self-implemented values_grid, so the result may be improved with change of model, on that ML based, or with more detail work with data. Maybe 'Rich' feature isn't that good, as it was predicted. Or maybe, i shouldn't thrown away all NaN data ;)))
+Not the best, but at least existing solution to Titanic Kaggle problem. Solution based on Logistic Regression with `ElasticNet`. Coefficients were find through self-implemented values_grid, so the result may be improved with change of model, on that ML based, or with more detail work with data. Maybe 'Rich' feature isn't that good, as it was predicted. Or maybe, i shouldn't thrown away all NaN data ;)))
 
 Implementation in `kaggle\titanic\main.ipynb`, solution in `submit.csv`
 
