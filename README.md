@@ -16,3 +16,14 @@ Not the best, but at least existing solution to Titanic Kaggle problem. Solution
 
 Implementation in `kaggle\titanic\main.ipynb`, solution in `submit.csv`
 
+### 2. Prediction of the Churn of clients
+![image](https://user-images.githubusercontent.com/65892626/184506301-ade5fa73-99f0-4038-bba1-3b433d6dfca5.png)
+
+Algorithm based on comparison of **Random Forest**, **CatBoost** and **LogisticRegression**
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/65892626/184506171-1fc1c2c2-8bc9-4fb6-9f68-e3e9c19df4ec.png">
+</p>
+
+Performance  may be increased with rebalancing the `train.csv`
+
+Implementation in `kaggle\PredictionOfTheChurnOfClients\main.ipynb`, solution in `submit.csv`
