@@ -9,6 +9,15 @@ Also i implemented **Ridge** and **Lasso** regularization, random Batch without 
 ![LogisticRegression](https://user-images.githubusercontent.com/65892626/183291276-842ba2c9-0f28-4d1f-b018-93d3dd850074.png)
 
 Basic implementation in `LogisticRegression.ipynb`
+
+### 1.3. Linear Models with Bagging: 
+
+Basic implementation in `bagging.py`
+
+### 1.4. Gradient Boosting: 
+
+Basic implementation in `boosting.py`
+
 ## 2. Real datasets approach:
 ### 1. Titanic
 ![image](https://user-images.githubusercontent.com/65892626/183523734-30ccf7c9-6ee6-4e57-b0aa-cc9087488bf6.png)
